@@ -2,7 +2,10 @@ import React from 'react'
 import Accordion from './Components/Accordion'
 function App() {
   return (
-    <Accordion/>
+    <div><Accordion/>
+    <p>||made by aryaman Sharma||</p>
+    </div>
+    
   )
 }
 
